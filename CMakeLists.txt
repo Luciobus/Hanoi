@@ -1,0 +1,1 @@
+add_executable(Hanoi_solver solve.cpp)
